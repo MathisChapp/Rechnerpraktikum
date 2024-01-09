@@ -1,7 +1,7 @@
 This is the repository of the group n°6 of the following class :
 "Vertiefendes Rechnerpraktikum zur Energietechnik WiSe2023" at the TU Berlin, given by Mr. Dr.-Ing. Mathias Hofmann.
 
-The main objective is to model a steam generator. 
+The main objective is to model a steam generator using the python library TESPy. 
 First, it should be fueled by gas (methane).
 Then add a heat pump and/or a solar power from a collector field.
 
